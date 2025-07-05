@@ -1,0 +1,25 @@
+
+image::https://github.com/zknmoe/zknmoe/blob/main/assets/banner.png?raw=true[align="center"]
+---
+
+
+🪐 *identity fragment* of 1zkn +
+🧊 low-power sandbox +
+🛰️ asn owner 
+
+---
+
+🗂️ homepage → https://zkn.moe/[] +
+📧 email → hi@zkevin.net +
+🪞 mirror → https://github.com/1zkn[1zkn] +
+
+<<<
+
+this identity is a soft fork of `1zkn`,  
+less structured, more reflective.
+
+host to fragments, bots,  
+and small experiments that shouldn’t need permission.
+
+if you're looking for something stable,  
+consider https://1zkn.dev[1zkn.dev].
